@@ -1,1 +1,2 @@
 # IMusicSpeakerLauncher
+Imusic 的升级launcher与初始页
